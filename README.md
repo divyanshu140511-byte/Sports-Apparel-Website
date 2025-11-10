@@ -24,7 +24,7 @@ In this project we can :
  - Title : Php basic E-commerce websie
  - Domain : Web technology
  - Platform : PHP Scripting
- - Languge : French
+   
 
 ### Install
 
@@ -71,11 +71,3 @@ Open your project folder (project-name) with your browser :
 ![Php basic E-commerce screen.png](https://s25.postimg.org/gw0r3ddpb/Php_basic_E_commerce_screen.png) 		
 		
 
-
-### License
-
-This Laravel Projects is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-
-----------
-Made with &#9829; by [Marwen Hlaoui](http://marwenhlaoui.me)
